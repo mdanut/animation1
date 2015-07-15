@@ -1,4 +1,4 @@
-setInterval (timeD, 1000);
+1. setInterval (timeD, 1000);
 
 /*
 * Display the current time
