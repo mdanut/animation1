@@ -1,4 +1,4 @@
-1. setInterval (timeD, 1000);
+3. setInterval (timeD, 1000);
 
 /*
 * Display the current time
